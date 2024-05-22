@@ -11,6 +11,10 @@ A desktop apllication to remove occluded object from images.
 
 Images of GUI of the application
 
+# Output
+![image](https://github.com/Krish0110/Image-Reprocessing-of-Occluded-Object/assets/84063708/acf6ed78-c0c6-45e4-b8e8-7b00020cdc31)
+![image](https://github.com/Krish0110/Image-Reprocessing-of-Occluded-Object/assets/84063708/905774e1-83f1-42c4-a264-518698a3e698)
+
 
 **Team Members**
 
